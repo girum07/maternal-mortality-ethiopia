@@ -98,7 +98,7 @@ This analysis is constrained by:
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/<your-username>/maternal-mortality-ethiopia.git
+git clone https://github.com/girum07/maternal-mortality-ethiopia.git
 cd maternal-mortality-ethiopia
 
 python3 -m venv .venv
