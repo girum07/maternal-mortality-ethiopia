@@ -106,4 +106,4 @@ source .venv/bin/activate
 
 pip install pandas matplotlib
 
-python run.py 
+python3 run.py 
